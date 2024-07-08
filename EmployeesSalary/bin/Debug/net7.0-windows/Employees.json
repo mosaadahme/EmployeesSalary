@@ -1,0 +1,65 @@
+[
+  {
+    "Name": "ali shahin",
+    "Job": "Engineer",
+    "BasicSalary": "5000",
+    "DaysLate": "3",
+    "DaysAbsence": "2",
+    "TotalPenalitirs": "0",
+    "Bouns": "400"
+  },
+  {
+    "Name": "ahmed hassan",
+    "Job": "Engineer",
+    "BasicSalary": "6000",
+    "DaysLate": "1",
+    "DaysAbsence": "3",
+    "TotalPenalitirs": "200",
+    "Bouns": "600"
+  },
+  {
+    "Name": "ahmed mohamed",
+    "Job": "Engineer",
+    "BasicSalary": "5500",
+    "DaysLate": "3",
+    "DaysAbsence": "7",
+    "TotalPenalitirs": "0",
+    "Bouns": "300"
+  },
+  {
+    "Name": "hossam",
+    "Job": "Sales",
+    "BasicSalary": "3000",
+    "DaysLate": "4",
+    "DaysAbsence": "1",
+    "TotalPenalitirs": "0",
+    "CommstionPercent": "0.2",
+    "TotalSales": "400000"
+  },
+  {
+    "Name": "Ibrahim hassan",
+    "Job": "Sales",
+    "BasicSalary": "3500",
+    "DaysLate": "7",
+    "DaysAbsence": "2",
+    "TotalPenalitirs": "0",
+    "CommstionPercent": "0.2",
+    "TotalSales": "300000"
+  },
+  {
+    "Name": "mohamed essmat",
+    "Job": "Admin",
+    "BasicSalary": "5000",
+    "DaysLate": "2",
+    "DaysAbsence": "0",
+    "TotalPenalitirs": "0"
+  },
+  {
+    "Name": "ahmed hamed",
+    "Job": "Admin",
+    "BasicSalary": "4000",
+    "DaysLate": "0",
+    "DaysAbsence": "3",
+    "TotalPenalitirs": "0"
+  }
+]
